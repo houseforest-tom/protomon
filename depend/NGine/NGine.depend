@@ -1,0 +1,793 @@
+# depslib dependency file v1.0
+1391117164 source:e:\projects\c++\ngine\nbase.cpp
+	"NBase.h"
+
+1403545850 e:\projects\c++\ngine\nbase.h
+	"NPlatform.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1394989404 e:\projects\c++\ngine\nplatform.h
+
+1401626335 source:e:\projects\c++\ngine\nfontmanager.cpp
+	"NFontManager.h"
+
+1401628299 e:\projects\c++\ngine\nfontmanager.h
+	"NAssetManager.h"
+	"NFont.h"
+
+1401626313 e:\projects\c++\ngine\nassetmanager.h
+	"NBase.h"
+	<map>
+
+1401623338 e:\projects\c++\ngine\nfont.h
+	"NBase.h"
+	<SFML/Graphics/Font.hpp>
+
+1376156544 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\begin_code.h
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\close_code.h
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401627629 source:e:\projects\c++\ngine\nkeyboard.cpp
+	"NKeyboard.h"
+
+1401627573 e:\projects\c++\ngine\nkeyboard.h
+	"NBase.h"
+	<SFML/System.hpp>
+	<SFML/Window/Keyboard.hpp>
+
+1403550205 source:e:\projects\c++\ngine\nmain.cpp
+	"NBase.h"
+	"NRenderer.h"
+	"NKeyboard.h"
+	"NMouse.h"
+	"NTextureManager.h"
+	"NFontManager.h"
+	"NField.h"
+	"NTransform2D.h"
+	"NGameObject.h"
+
+1411239303 e:\projects\c++\ngine\nrenderer.h
+	"NBase.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	"NTexture.h"
+	"NFont.h"
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/OpenGL.hpp>
+
+1411239587 e:\projects\c++\ngine\ntexture.h
+	"NBase.h"
+	<GL/gl.h>
+	<SFML/Graphics.hpp>
+
+1382587624 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1401633132 e:\projects\c++\ngine\nmouse.h
+	"NBase.h"
+	"NRenderer.h"
+
+1401626351 e:\projects\c++\ngine\ntexturemanager.h
+	"NAssetManager.h"
+	"NTexture.h"
+
+1376156342 e:\libraries\sdl2-2.0.1\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1411134901 e:\projects\c++\ngine\nfield.h
+	"NBase.h"
+
+1403550248 source:e:\projects\c++\ngine\nmouse.cpp
+	"NMouse.h"
+
+1413036495 source:e:\projects\c++\ngine\nrenderer.cpp
+	"NRenderer.h"
+
+1391799164 source:e:\projects\c++\ngine\ntexture.cpp
+	"NTexture.h"
+
+1411136761 source:e:\projects\c++\ngine\ntexturemanager.cpp
+	"NTextureManager.h"
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1374390132 e:\libraries\sfml-2.1\include\sfml\config.hpp
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\vector2.inl
+
+1368305601 e:\libraries\sfml-2.1\include\sfml\graphics\rect.inl
+
+1367997280 e:\libraries\sfml-2.1\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1368172116 e:\libraries\sfml-2.1\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1368099372 e:\libraries\sfml-2.1\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\thread.inl
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\threadlocalptr.inl
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1372053422 e:\libraries\sfml-2.1\include\sfml\system\utf.inl
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\system\vector3.inl
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\contextsettings.hpp
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1371061192 e:\libraries\sfml-2.1\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\window\windowstyle.hpp
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\blendmode.hpp
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1367997280 e:\libraries\sfml-2.1\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\primitivetype.hpp
+
+1367997280 e:\libraries\sfml-2.1\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1371547273 e:\libraries\sfml-2.1\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1368255064 e:\libraries\sfml-2.1\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1367997280 e:\libraries\sfml-2.1\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1367997278 e:\libraries\sfml-2.1\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1367997279 e:\libraries\sfml-2.1\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1367997280 e:\libraries\sfml-2.1\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1367997281 e:\libraries\sfml-2.1\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+
+1403545034 source:e:\projects\c++\ngine\ntransform2d.cpp
+	"NTransform2D.h"
+
+1403545030 e:\projects\c++\ngine\ntransform2d.h
+	"NBase.h"
+	"NIGenString.h"
+
+1403545210 e:\projects\c++\ngine\nigenstring.h
+
+1403547059 e:\projects\c++\ngine\ngameobject.h
+	"NTransform2D.h"
+
+1403551317 source:e:\projects\c++\ngine\nobjectmanager.cpp
+	"NObjectManager.h"
+
+1403551427 e:\projects\c++\ngine\nobjectmanager.h
+	"NDrawable.h"
+
+1403547005 e:\projects\c++\ngine\ndrawable.h
+	"NRenderer.h"
+	"NTransform2D.h"
+	"NGameObject.h"
+

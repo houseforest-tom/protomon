@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NGine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Build">
+				<Option output="bin/ngine" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/" />
+				<Option external_deps="../../../Libraries/SFML-2.1/lib/libsfml-audio.a;../../../Libraries/SFML-2.1/lib/libsfml-graphics.a;../../../Libraries/SFML-2.1/lib/libsfml-main.a;../../../Libraries/SFML-2.1/lib/libsfml-network.a;../../../Libraries/SFML-2.1/lib/libsfml-system.a;../../../Libraries/SFML-2.1/lib/libsfml-window.a;" />
+				<Option type="2" />
+				<Option compiler="mingw_gcc_cc11_dbg" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add option="-std=gnu++11" />
+					<Add directory="../../../Libraries/SFML-2.1/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lMinGW32" />
+					<Add option="-lOpenGL32" />
+					<Add option="-lGlu32" />
+					<Add library="sfml-graphics-d" />
+					<Add library="sfml-window-d" />
+					<Add library="sfml-system-d" />
+					<Add directory="../../../Libraries/SFML-2.1/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="NAssetManager.h" />
+		<Unit filename="NBase.cpp" />
+		<Unit filename="NBase.h" />
+		<Unit filename="NDrawable.h" />
+		<Unit filename="NField.h" />
+		<Unit filename="NFont.h" />
+		<Unit filename="NFontManager.cpp" />
+		<Unit filename="NFontManager.h" />
+		<Unit filename="NGameObject.h" />
+		<Unit filename="NIGenString.h" />
+		<Unit filename="NKeyboard.cpp" />
+		<Unit filename="NKeyboard.h" />
+		<Unit filename="NMain.cpp" />
+		<Unit filename="NMouse.cpp" />
+		<Unit filename="NMouse.h" />
+		<Unit filename="NObjectManager.cpp" />
+		<Unit filename="NObjectManager.h" />
+		<Unit filename="NPlatform.h" />
+		<Unit filename="NRenderer.cpp" />
+		<Unit filename="NRenderer.h" />
+		<Unit filename="NTexture.h" />
+		<Unit filename="NTextureManager.cpp" />
+		<Unit filename="NTextureManager.h" />
+		<Unit filename="NTransform2D.cpp" />
+		<Unit filename="NTransform2D.h" />
+		<Unit filename="res/NGine.exe" />
+		<Unit filename="res/SDL2.dll" />
+		<Unit filename="res/SDL2_image.dll" />
+		<Unit filename="res/SDL2_mixer.dll" />
+		<Unit filename="res/SDL2_ttf.dll" />
+		<Unit filename="res/crate.png" />
+		<Unit filename="res/landt.ttf" />
+		<Unit filename="res/libFLAC-8.dll" />
+		<Unit filename="res/libfreetype-6.dll" />
+		<Unit filename="res/libjpeg-9.dll" />
+		<Unit filename="res/libmodplug-1.dll" />
+		<Unit filename="res/libogg-0.dll" />
+		<Unit filename="res/libpng16-16.dll" />
+		<Unit filename="res/libtiff-5.dll" />
+		<Unit filename="res/libvorbis-0.dll" />
+		<Unit filename="res/libvorbisfile-3.dll" />
+		<Unit filename="res/libwebp-4.dll" />
+		<Unit filename="res/opengl32.dll" />
+		<Unit filename="res/smpeg2.dll" />
+		<Unit filename="res/stuff.png" />
+		<Unit filename="res/zlib1.dll" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

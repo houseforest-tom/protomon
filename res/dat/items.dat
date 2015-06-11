@@ -1,0 +1,227 @@
+1
+POTION
+0
+0
+Restores a Pokemon's HP by 20 Points.
+
+2
+SUPER POTION
+0
+0
+Restores a Pokemon's HP by 50 Points.
+
+3
+HYPER POTION
+0
+0
+Restores a Pokemon's HP by 200 Points.
+
+4
+MAX POTION
+0
+0
+Restores all of a Pokemon's HP.
+
+5
+ETHER
+0
+0
+Restores the PP of a Pokemon's Move by 10 Points.
+
+6
+MAX ETHER
+0
+0
+Restores the PP of a Pokemon's Move completely.
+
+7
+ELIXIR
+0
+0
+Restores the PP of all of the Pokemon's Moves by 10 Points.
+
+8
+MAX ELIXIR
+0
+0
+Restores the PP of all of the Pokemon's Moves completely.
+
+9
+ANTIDOTE
+0
+0
+Cures a Pokemon from its Poisoning.
+
+10
+PARALYZ HEAL
+0
+0
+Cures a Pokemon from being paralyzed.
+
+11
+AWAKENING
+0
+0
+Wakes up a Pokemon that's asleep.
+
+12
+BURN HEAL
+0
+0
+Cures a Pokemon from its Burn.
+
+13
+ICE HEAL
+0
+0
+Thaws up a frozen Pokemon.
+
+14
+FULL HEAL
+0
+0
+Cures all Status Ailments of the Pokemon.
+
+15
+FULL RESTORE
+0
+0
+Recovers all of a Pokemon's HP and cures any Status Ailments.
+
+16
+LAVA COOKIE
+0
+0
+I have absolutely no Idea what this Thing does!
+
+17
+OLD GATEAU
+0
+0
+I have absolutely no Idea what this Thing does!
+
+18
+REVIVE
+0
+0
+Revives a fainted Pokemon with 50% of its HP.
+
+19
+MAX REVIVE
+0
+0
+Revives a fainted Pokemon and restores all of its HP.
+
+20
+ENERGY POWDER
+0
+0
+I have absolutely no Idea what this Thing does!
+
+21
+ENERGY ROOT
+0
+0
+I have absolutely no Idea what this Thing does!
+
+22
+HEAL POWDER
+0
+0
+I have absolutely no Idea what this Thing does!
+
+23
+REVIVAL HERB
+0
+0
+I have absolutely no Idea what this Thing does!
+
+24
+POKEBALL
+1
+1
+Just an average Pokeball. Use it to catch wild Pokemon.
+
+25
+GREAT BALL
+1
+1
+Has a better Chance of catching wild Pokemon than a Pokeball.
+
+26
+ULTRA BALL
+1
+1
+Has a better Chance of catching wild Pokemon than a Great Ball.
+
+27
+QUICK BALL
+1
+1
+The Catching Chance of this Ball is highest when used at the Beginning of a Battle.
+
+28
+NET BALL
+1
+1
+Is best used to catch Water or Bug Type Pokemon.
+
+29
+DIVE BALL
+1
+1
+Is best used to catch Pokemon while Surfing or Fishing.
+
+30
+DUSK BALL
+1
+1
+Is best used to catch Pokemon at Night or in dark Places.
+
+31
+HEAL BALL
+1
+1
+When catching a Pokemon with this Ball, it will be fully recovered.
+
+32
+LUXURY BALL
+1
+1
+When catching a Pokemon with this Ball, it will earn one Level.
+
+33
+NEST BALL
+1
+1
+Is best used to catch weaker Pokemon.
+
+34
+PREMIER BALL
+1
+1
+A normal Pokeball but different.
+
+35
+REPEAT BALL
+1
+1
+Is best used to catch Pokemon of Species you already catched earlier.
+
+36
+SAFARI BALL
+1
+1
+Only to be used in Safari Zone.
+
+37
+TIMER BALL
+1
+1
+The Catching Chance of this Ball increases each Round.
+
+38
+MASTER BALL
+1
+1
+This special Ball is capable of catching any wild Pokemon by Guarantee.

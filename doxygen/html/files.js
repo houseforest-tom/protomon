@@ -1,0 +1,28 @@
+var files =
+[
+    [ "..\\include\\proto_battle\\proto_battle.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__battle_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattlecast.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattlecast_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattlechange.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattlechange_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattleenemy.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattleenemy_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattlefight.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattlefight_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattleinit.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattleinit_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattleitem.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattleitem_8h_source.html", null ],
+    [ "..\\include\\proto_battle\\proto_gsc_wildbattlemain.h", "_8_8_0Cinclude_0Cproto__battle_0Cproto__gsc__wildbattlemain_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_ability.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__ability_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_ability_list.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__ability__list_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_monster.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__monster_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_move.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__move_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_move_effects.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__move__effects_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_move_list.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__move__list_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_moveset.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__moveset_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_species.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__species_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_species_list.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__species__list_8h_source.html", null ],
+    [ "..\\include\\proto_monsters\\proto_team.h", "_8_8_0Cinclude_0Cproto__monsters_0Cproto__team_8h_source.html", null ],
+    [ "..\\include\\proto_system\\proto_bag.h", "_8_8_0Cinclude_0Cproto__system_0Cproto__bag_8h_source.html", null ],
+    [ "..\\include\\proto_system\\proto_enums.h", "_8_8_0Cinclude_0Cproto__system_0Cproto__enums_8h_source.html", null ],
+    [ "..\\include\\proto_system\\proto_game.h", "_8_8_0Cinclude_0Cproto__system_0Cproto__game_8h_source.html", null ],
+    [ "..\\include\\proto_system\\proto_game_scene.h", "_8_8_0Cinclude_0Cproto__system_0Cproto__game__scene_8h_source.html", null ],
+    [ "..\\include\\proto_system\\proto_item.h", "_8_8_0Cinclude_0Cproto__system_0Cproto__item_8h_source.html", null ],
+    [ "..\\include\\proto_system\\proto_item_list.h", "_8_8_0Cinclude_0Cproto__system_0Cproto__item__list_8h_source.html", null ],
+    [ "..\\include\\proto_world\\proto_map.h", "_8_8_0Cinclude_0Cproto__world_0Cproto__map_8h_source.html", null ]
+];
